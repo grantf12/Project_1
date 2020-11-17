@@ -36,5 +36,4 @@ $("#exampleBtn").click(function(){
       })
     makeFuelList();
 })
- //var pizza = stuff
 
